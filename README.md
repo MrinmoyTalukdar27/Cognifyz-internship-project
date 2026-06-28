@@ -1,4 +1,4 @@
-# Cognifyz Data Analysis Internship Project
+### Cognifyz Data Analysis Internship Project
 
 ## Overview
 This repository contains the tasks completed during my Data Analysis Internship at Cognifyz Technologies. The project focuses on analyzing restaurant data using Python, Pandas, and Matplotlib to extract meaningful insights and create visualizations.
